@@ -42,7 +42,7 @@
     "got": "12.4.x",
     "hpagent": "1.0.x",
     "object-path": "0.11.x",
-    "semver": "7.3.x",
+    "semver": "7.6.x",
     "yargs": "17.5.x"
   },
   "devDependencies": {
